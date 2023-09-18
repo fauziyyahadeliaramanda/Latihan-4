@@ -1,0 +1,14 @@
+Algoritma: hitung_luas_lingkaran
+
+Deklarasi:
+phi = 3.14
+jari-jari : int
+
+Deskripsi
+print "Masukkan phi"
+read phi
+print "Masukkan jari-jari
+read jari-jari
+luas= phi * jari-jari * jari jari
+print = "Luas lingkaran="
+print luas

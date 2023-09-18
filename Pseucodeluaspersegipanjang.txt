@@ -1,0 +1,15 @@
+Luas Persegi Panjang
+
+Algoritma : hitung_luas_persegipanjang
+
+Deklarasi :
+luas,panjang,lebar : int
+
+Deskripsi:
+print "Masukkan Panjang"
+read panjang
+print "Masukkan Lebar"
+read lebar
+luas = panjang * lebar
+print "Luas persegi panjang=" 
+print luas

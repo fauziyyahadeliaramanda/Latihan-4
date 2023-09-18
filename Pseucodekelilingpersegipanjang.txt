@@ -1,0 +1,16 @@
+Keliling persegi panjang
+
+Algoritma: hitung_keliling_persegipanjang
+
+Deklarasi: 
+panjang, lebar, luas : int
+
+Deskripsi:
+
+print "Masukkan panjang"
+read panjang
+print "Masukkan lebar"
+read lebar
+keliling = 2* (panjang + lebar)
+print "keliling persegi panjang="
+print keliling
